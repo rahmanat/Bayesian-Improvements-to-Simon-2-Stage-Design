@@ -1,6 +1,6 @@
 ##### Calculate the PPoS #####
 
-num_sims = 10000
+num_sims = 10000 # number of simulations
 num_subjects = 25 # Maximum number of subjects to be enrolled 
 sig_num = 5 # Number of responses needed at end of trial to declare an effect 
 null_response = 0.1 # Null response rate
@@ -12,7 +12,7 @@ alpha = 1
 beta = 1
 
 
-#### 0.1 Threshold, using Beta(1,1) prior
+#### 0.1 null response, using Beta(1,1) prior
 pred_p = matrix(data = 0, nrow = num_subjects, ncol = sig_num + 1)
 a = alpha
 b = beta
