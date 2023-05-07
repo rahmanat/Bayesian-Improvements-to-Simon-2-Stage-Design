@@ -1,6 +1,6 @@
 # Bayesian-Improvements-to-Simon-2-Stage-Design
 
-The files in this repository provide the code to reproduce the results found in the paper, "Bayesian Improvements to Simon 2-Stage Design for Efficient One-Arm Oncology Trials" by Natalia Rahman, MS and Alexander M. Kaizer, PhD. 
+The files in this repository provide the code to reproduce the results found in the paper, "Bayesian Improvements to Simon 2-Stage Design for Efficient One-Arm Oncology Trials" by Natalia Rahman and Alexander M. Kaizer. 
 
 # The files included are:
   - functions.R
